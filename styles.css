@@ -1,0 +1,31 @@
+h1 {
+  padding: 10px;
+  margin: 10px;
+  border: 5px solid #0d00ff;
+  background-color: lightblue; 
+}
+
+p {
+  color: red;
+  font-size: 16px;
+  line-height: 1.5;
+  border: 2px solid #0d00ff;
+  background-color: lightblue;
+  padding: 10px;
+}
+
+h1 {
+  color: rgb(238, 6, 6);
+}
+
+.note {
+  color: #c81010;
+  border: 2px solid #0d00ff;
+  background-color: lightblue;
+  margin: 20px;
+  padding: 10px;
+}
+
+#navigation {
+color: #ff0000;
+}
